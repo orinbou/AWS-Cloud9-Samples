@@ -21,5 +21,5 @@ demoS3Bucket.py を[Run]して実行してください。
 ### 参考URL
 * https://www.slideshare.net/AmazonWebServicesJapan/aws-black-belt-online-seminar-aws-84039142  
   ※ [@afukui](https://twitter.com/afukui) さんどうもありがとうございます。  
-* https://qiita.com/akinoriikeda/items/82bd91fa0d5eb9f974a7
 * https://pages.awscloud.com/DeveloperMeetup20171207.html
+* https://qiita.com/akinoriikeda/items/82bd91fa0d5eb9f974a7
